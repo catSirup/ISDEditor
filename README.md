@@ -11,7 +11,7 @@ PC(Windows)
 
 ### 프로젝트 정보
 'Infinite Sound Dodge' 에 들어갈 채보를 찍기 위해 만든 에디터 툴</br>
-Unity 5.2.3f 에서 2018.1.1f1로 업그레이드 함
+2015년 11월에 Unity 5.2.3f로 개발하던 환경에서 2018년 10 2018.1.1f1로 업그레이드 함
 
 ### 영상
 [![Video Label](http://img.youtube.com/vi/Cc_Bc2ZyBZ0/0.jpg)](https://youtu.be/Cc_Bc2ZyBZ0?t=0s)
