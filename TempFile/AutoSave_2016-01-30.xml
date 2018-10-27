@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TempFile>
+  <BGM>
+    <Name>01</Name>
+    <Directory>Null</Directory>
+  </BGM>
+  <EffectSound>
+    <Count>0</Count>
+  </EffectSound>
+  <Note>
+    <Count>1</Count>
+    <Note_0>
+      <NOTE_TYPE>NONE</NOTE_TYPE>
+      <Time>1.464979</Time>
+      <Score>0</Score>
+      <EffectSound>wep_spell_descend</EffectSound>
+      <XPositon>-4.402025</XPositon>
+      <YPosition>-1</YPosition>
+    </Note_0>
+  </Note>
+</TempFile>
