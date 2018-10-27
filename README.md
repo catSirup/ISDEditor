@@ -2,7 +2,7 @@
 
 ![img view][1]
 
-[1]: https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/13442329_873351602794391_7955708399430878779_n.jpg?_nc_cat=105&_nc_ht=scontent-icn1-1.xx&oh=b02dcf1a1b0e3c541d2a7327e52e954a&oe=5C8A5C97(preview)
+[1]: https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/13442329_873351602794391_7955708399430878779_n.jpg?_nc_cat=105&_nc_ht=scontent-icn1-1.xx&oh=b02dcf1a1b0e3c541d2a7327e52e954a&oe=5C8A5C97 (preview)
 
 ## 1. 프로젝트 정보
 
