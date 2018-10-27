@@ -24,6 +24,7 @@ PC(Windows)
 [2]: https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/44843876_1727730660689810_971326632314798080_n.jpg?_nc_cat=100&_nc_ht=scontent-icn1-1.xx&oh=2ddd58d2e2a1a51d7a780475ad9a0d6b&oe=5C514F26 (preview)
 (간단하게 에디터에 대한 기능을 설명한 스크린샷, ui는 uGUI를 사용함.)</br>
 
+간략하게 몇 개의 클래스만 설명하겠습니다. 나머지 부분은 크게 설명할 부분이 없을 듯 하네요.
 
 ### EditorManager.CS
 Editor Class는 전반적으로 에디터에서 일어날 모든 일들에 대해서 관리합니다.</br>
