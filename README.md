@@ -1,9 +1,5 @@
 # ISDEditor
 
-![img view][1]
-
-[1]: https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/13442329_873351602794391_7955708399430878779_n.jpg?_nc_cat=105&_nc_ht=scontent-icn1-1.xx&oh=b02dcf1a1b0e3c541d2a7327e52e954a&oe=5C8A5C97 (preview)
-
 ## 1. 프로젝트 정보
 
 ### 플랫폼 
@@ -13,16 +9,7 @@ PC(Windows)
 'Infinite Sound Dodge' 에 들어갈 채보를 찍기 위해 만든 에디터 툴</br>
 2015년 11월에 Unity 5.2.3f로 개발하던 환경에서 2018년 10 2018.1.1f1로 업그레이드 함
 
-### 영상
-[![Video Label](http://img.youtube.com/vi/Cc_Bc2ZyBZ0/0.jpg)](https://youtu.be/Cc_Bc2ZyBZ0?t=0s)
-
-
 ## 2. 프로젝트 코드 설명
-
-![img view][2]
-
-[2]: https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/44843876_1727730660689810_971326632314798080_n.jpg?_nc_cat=100&_nc_ht=scontent-icn1-1.xx&oh=2ddd58d2e2a1a51d7a780475ad9a0d6b&oe=5C514F26 (preview)
-(간단하게 에디터에 대한 기능을 설명한 스크린샷, ui는 uGUI를 사용함.)</br>
 
 간략하게 몇 개의 클래스만 설명하겠습니다. 나머지 부분은 크게 설명할 부분이 없을 듯 하네요.
 
