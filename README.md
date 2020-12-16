@@ -2,6 +2,9 @@
 
 ## 1. 프로젝트 정보
 
+### 영상
+[![Video Label](http://img.youtube.com/vi/64k-w_cP2Kc/0.jpg)](https://youtu.be/64k-w_cP2Kc?t=0s)
+
 ### 플랫폼 
 PC(Windows)
 
